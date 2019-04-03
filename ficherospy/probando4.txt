@@ -1,0 +1,13 @@
+Hola
+que
+tal
+estoy
+probando
+como
+se
+ordenan
+las
+palabras
+de
+un
+fichero
